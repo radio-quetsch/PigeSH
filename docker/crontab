@@ -1,0 +1,2 @@
+0 * * * * /app/pige.sh record
+0 0 * * * /app/pige.sh purge
